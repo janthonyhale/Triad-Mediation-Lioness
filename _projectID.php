@@ -1,1 +1,0 @@
-<?php define ("PROJECTID","e4447g40733_");define ("PATH","resources/");define ("FIRSTPAGE","stage438338");define ("PROJECTPW","71631209f137596b0ef0abf8a28c0d59");define ("GAMEID","40733");define ("COURSEID","4447");
